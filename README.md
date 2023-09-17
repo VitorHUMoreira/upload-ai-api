@@ -1,7 +1,7 @@
 Project made at Rocketseat Next Level Week - IA.<br/>
 The goal was to build an application to generate descriptions and titles for YouTube videos from the content transcription.
 
-<a href="https://github.com/VitorHUMoreira/upload-ai-web" target="_blank">Web</a>
+💻 <a href="https://github.com/VitorHUMoreira/upload-ai-web" target="_blank">Web</a>
 
 
 ## ⚒️ Built With
